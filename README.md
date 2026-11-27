@@ -1,4 +1,9 @@
 # Ex.No-11-Creating-a-Simple-Professional-Profile-Page-on-LinkedIn
+NAME: NETHELAN M
+
+REG.NO.: 212225060182
+
+DATE: 27/11/2026
 ## AIM
 To understand the importance of a professional online presence and to create a simple, complete, and professional profile page on LinkedIn, highlighting academic/professional details in a clear and organised manner.
 ## WHAT IS LINKEDIN?
